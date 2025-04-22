@@ -1,4 +1,7 @@
-install procces
+
+
+
+
 pkg update && pkg upgrade
 
 
