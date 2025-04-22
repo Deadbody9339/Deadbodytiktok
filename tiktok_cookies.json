@@ -1,1 +1,5 @@
-
+{
+    "cookie1_name": "cookie1_value",
+    "cookie2_name": "cookie2_value",
+    "cookie3_name": "cookie3_value"
+}
